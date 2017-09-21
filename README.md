@@ -11,3 +11,8 @@ This module does two things:
  -  adds a 'purge all items'-action to the batch queue set of Islandora.
     In this way, one can easily delete an import action that has gone awry.
 
+## License
+
+[GPLv3](LICENSE.txt)
+Copyright 2017 Leiden University Library
+
